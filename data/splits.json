@@ -1,0 +1,141 @@
+{
+  "seed": 42,
+  "normals": {
+    "train": [
+      "164.JPG", "383.JPG", "045.JPG", "156.JPG", "053.JPG", "072.JPG",
+      "315.JPG", "209.JPG", "074.JPG", "333.JPG", "403.JPG", "415.JPG",
+      "092.JPG", "215.JPG", "479.JPG", "059.JPG", "368.JPG", "163.JPG",
+      "210.JPG", "251.JPG", "443.JPG", "320.JPG", "289.JPG", "389.JPG",
+      "007.JPG", "462.JPG", "249.JPG", "228.JPG", "245.JPG", "211.JPG",
+      "129.JPG", "162.JPG", "223.JPG", "041.JPG", "278.JPG", "021.JPG",
+      "434.JPG", "068.JPG", "227.JPG", "151.JPG", "369.JPG", "217.JPG",
+      "154.JPG", "177.JPG", "397.JPG", "139.JPG", "141.JPG", "326.JPG",
+      "175.JPG", "170.JPG", "088.JPG", "096.JPG", "439.JPG", "303.JPG",
+      "050.JPG", "199.JPG", "297.JPG", "131.JPG", "120.JPG", "358.JPG",
+      "180.JPG", "370.JPG", "037.JPG", "160.JPG", "004.JPG", "093.JPG",
+      "304.JPG", "188.JPG", "374.JPG", "453.JPG", "094.JPG", "468.JPG",
+      "292.JPG", "340.JPG", "407.JPG", "408.JPG", "187.JPG", "334.JPG",
+      "213.JPG", "127.JPG", "011.JPG", "006.JPG", "442.JPG", "246.JPG",
+      "396.JPG", "425.JPG", "345.JPG", "089.JPG", "426.JPG", "026.JPG",
+      "077.JPG", "184.JPG", "262.JPG", "207.JPG", "182.JPG", "095.JPG",
+      "100.JPG", "419.JPG", "394.JPG", "155.JPG"
+    ],
+    "test": [
+      "208.JPG", "145.JPG", "432.JPG", "277.JPG", "341.JPG", "465.JPG",
+      "317.JPG", "017.JPG", "448.JPG", "020.JPG", "130.JPG", "238.JPG",
+      "296.JPG", "286.JPG", "336.JPG", "300.JPG", "149.JPG", "203.JPG",
+      "387.JPG", "398.JPG", "190.JPG", "201.JPG", "418.JPG", "014.JPG",
+      "055.JPG", "075.JPG", "284.JPG", "039.JPG", "391.JPG", "460.JPG",
+      "257.JPG", "178.JPG", "212.JPG", "472.JPG", "420.JPG", "067.JPG",
+      "099.JPG", "476.JPG", "097.JPG", "196.JPG", "339.JPG", "288.JPG",
+      "318.JPG", "457.JPG", "124.JPG", "242.JPG", "042.JPG", "060.JPG",
+      "192.JPG", "422.JPG"
+    ],
+    "canvas": [
+      "230.JPG", "362.JPG", "237.JPG", "353.JPG", "085.JPG", "323.JPG",
+      "171.JPG", "393.JPG", "153.JPG", "313.JPG", "038.JPG", "392.JPG",
+      "069.JPG", "106.JPG", "348.JPG", "489.JPG", "428.JPG", "158.JPG",
+      "031.JPG", "244.JPG", "008.JPG", "267.JPG", "485.JPG", "233.JPG",
+      "261.JPG", "401.JPG", "291.JPG", "198.JPG", "132.JPG", "324.JPG",
+      "322.JPG", "002.JPG", "018.JPG", "488.JPG", "263.JPG", "076.JPG",
+      "253.JPG", "314.JPG", "351.JPG", "471.JPG", "143.JPG", "449.JPG",
+      "066.JPG", "179.JPG", "133.JPG", "144.JPG", "406.JPG", "280.JPG",
+      "269.JPG", "466.JPG"
+    ]
+  },
+  "experiment1": {
+    "description": "UniNet full eval: unsupervised vs synthetic vs real supervision",
+    "gen_anomalies": {
+      "description": "50 anomalies used for training (synthetic in mode 2, real in mode 3)",
+      "easy": [
+        "034.JPG", "059.JPG", "062.JPG", "079.JPG", "063.JPG", "054.JPG",
+        "092.JPG", "017.JPG", "023.JPG", "091.JPG", "061.JPG", "044.JPG",
+        "003.JPG", "082.JPG", "022.JPG", "012.JPG", "026.JPG", "075.JPG",
+        "090.JPG", "002.JPG", "081.JPG", "031.JPG", "045.JPG", "001.JPG",
+        "070.JPG", "004.JPG", "006.JPG", "078.JPG", "007.JPG", "009.JPG",
+        "033.JPG", "074.JPG", "060.JPG", "021.JPG", "058.JPG", "050.JPG",
+        "085.JPG", "010.JPG", "030.JPG", "086.JPG", "089.JPG", "076.JPG",
+        "028.JPG", "029.JPG", "020.JPG", "069.JPG", "088.JPG"
+      ],
+      "hard": [
+        "098.JPG", "096.JPG", "095.JPG"
+      ]
+    },
+    "test_anomalies": {
+      "description": "50 anomalies always in test set (also source refs for synthetic generation)",
+      "easy": [
+        "067.JPG", "027.JPG", "013.JPG", "018.JPG", "056.JPG", "083.JPG",
+        "072.JPG", "035.JPG", "080.JPG", "019.JPG", "036.JPG", "071.JPG",
+        "011.JPG", "057.JPG", "047.JPG", "043.JPG", "048.JPG", "053.JPG",
+        "087.JPG", "016.JPG", "037.JPG", "051.JPG", "041.JPG", "052.JPG",
+        "039.JPG", "064.JPG", "038.JPG", "015.JPG", "040.JPG", "042.JPG",
+        "008.JPG", "084.JPG", "046.JPG", "025.JPG", "068.JPG", "066.JPG",
+        "000.JPG", "093.JPG", "005.JPG", "032.JPG", "024.JPG", "073.JPG",
+        "049.JPG", "014.JPG", "065.JPG", "077.JPG", "055.JPG"
+      ],
+      "hard": [
+        "097.JPG", "099.JPG", "094.JPG"
+      ]
+    }
+  },
+  "experiment2": {
+    "description": "Realism validation: mixed real+synthetic train, run many times",
+    "real": {
+      "description": "From gen_anomalies pool - real images used directly",
+      "train_easy": [
+        "079.JPG", "050.JPG", "063.JPG", "028.JPG", "006.JPG", "044.JPG",
+        "021.JPG", "007.JPG", "088.JPG", "090.JPG", "074.JPG", "069.JPG",
+        "060.JPG", "085.JPG", "004.JPG", "081.JPG", "045.JPG", "086.JPG",
+        "029.JPG", "034.JPG", "002.JPG", "026.JPG", "076.JPG", "082.JPG",
+        "010.JPG", "020.JPG", "062.JPG", "078.JPG", "054.JPG", "058.JPG",
+        "092.JPG", "023.JPG", "022.JPG", "012.JPG", "075.JPG", "059.JPG",
+        "017.JPG", "089.JPG"
+      ],
+      "train_hard": [
+        "096.JPG", "098.JPG"
+      ],
+      "test_easy": [
+        "009.JPG", "001.JPG", "070.JPG", "061.JPG", "031.JPG", "091.JPG",
+        "033.JPG", "030.JPG", "003.JPG"
+      ],
+      "test_hard": [
+        "095.JPG"
+      ]
+    },
+    "synthetic": {
+      "description": "From test_anomalies pool - synthetic versions used for train, real for test",
+      "source_easy": [
+        "019.JPG", "036.JPG", "065.JPG", "027.JPG", "067.JPG", "057.JPG",
+        "043.JPG", "038.JPG", "049.JPG", "046.JPG", "042.JPG", "048.JPG",
+        "040.JPG", "016.JPG", "053.JPG", "051.JPG", "055.JPG", "064.JPG",
+        "072.JPG", "005.JPG", "041.JPG", "084.JPG", "071.JPG", "037.JPG",
+        "025.JPG", "080.JPG", "093.JPG", "018.JPG", "008.JPG", "077.JPG",
+        "015.JPG", "014.JPG", "073.JPG", "047.JPG", "013.JPG", "056.JPG",
+        "011.JPG", "000.JPG", "052.JPG", "032.JPG", "024.JPG", "087.JPG",
+        "066.JPG", "083.JPG", "039.JPG", "035.JPG", "068.JPG"
+      ],
+      "source_hard": [
+        "097.JPG", "094.JPG", "099.JPG"
+      ],
+      "train_easy": [
+        "046.JPG", "042.JPG", "048.JPG", "040.JPG", "016.JPG", "053.JPG",
+        "051.JPG", "055.JPG", "064.JPG", "072.JPG", "005.JPG", "041.JPG",
+        "084.JPG", "071.JPG", "037.JPG", "025.JPG", "080.JPG", "093.JPG",
+        "018.JPG", "008.JPG", "077.JPG", "015.JPG", "014.JPG", "073.JPG",
+        "047.JPG", "013.JPG", "056.JPG", "011.JPG", "000.JPG", "052.JPG",
+        "032.JPG", "024.JPG", "087.JPG", "066.JPG", "083.JPG", "039.JPG",
+        "035.JPG", "068.JPG"
+      ],
+      "train_hard": [
+        "094.JPG", "099.JPG"
+      ],
+      "test_easy": [
+        "019.JPG", "036.JPG", "065.JPG", "027.JPG", "067.JPG", "057.JPG",
+        "043.JPG", "038.JPG", "049.JPG"
+      ],
+      "test_hard": [
+        "097.JPG"
+      ]
+    }
+  }
+}

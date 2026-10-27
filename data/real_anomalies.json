@@ -1,0 +1,506 @@
+[
+ {
+  "id": "001",
+  "label": "burnt",
+  "type": "burnt",
+  "image": "Data/Images/Anomaly/easy_imgs/001.JPG"
+ },
+ {
+  "id": "003",
+  "label": "burnt",
+  "type": "burnt",
+  "image": "Data/Images/Anomaly/easy_imgs/003.JPG"
+ },
+ {
+  "id": "004",
+  "label": "burnt",
+  "type": "burnt",
+  "image": "Data/Images/Anomaly/easy_imgs/004.JPG"
+ },
+ {
+  "id": "005",
+  "label": "burnt",
+  "type": "burnt",
+  "image": "Data/Images/Anomaly/easy_imgs/005.JPG"
+ },
+ {
+  "id": "006",
+  "label": "burnt",
+  "type": "burnt",
+  "image": "Data/Images/Anomaly/easy_imgs/006.JPG"
+ },
+ {
+  "id": "007",
+  "label": "burnt",
+  "type": "burnt",
+  "image": "Data/Images/Anomaly/easy_imgs/007.JPG"
+ },
+ {
+  "id": "008",
+  "label": "burnt",
+  "type": "burnt",
+  "image": "Data/Images/Anomaly/easy_imgs/008.JPG"
+ },
+ {
+  "id": "010",
+  "label": "burnt",
+  "type": "burnt",
+  "image": "Data/Images/Anomaly/easy_imgs/010.JPG"
+ },
+ {
+  "id": "011",
+  "label": "burnt",
+  "type": "burnt",
+  "image": "Data/Images/Anomaly/easy_imgs/011.JPG"
+ },
+ {
+  "id": "012",
+  "label": "corner or edge breakage",
+  "type": "breakage",
+  "image": "Data/Images/Anomaly/easy_imgs/012.JPG"
+ },
+ {
+  "id": "013",
+  "label": "corner or edge breakage",
+  "type": "breakage",
+  "image": "Data/Images/Anomaly/easy_imgs/013.JPG"
+ },
+ {
+  "id": "014",
+  "label": "corner or edge breakage",
+  "type": "breakage",
+  "image": "Data/Images/Anomaly/easy_imgs/014.JPG"
+ },
+ {
+  "id": "015",
+  "label": "corner or edge breakage",
+  "type": "breakage",
+  "image": "Data/Images/Anomaly/easy_imgs/015.JPG"
+ },
+ {
+  "id": "016",
+  "label": "corner or edge breakage",
+  "type": "breakage",
+  "image": "Data/Images/Anomaly/easy_imgs/016.JPG"
+ },
+ {
+  "id": "017",
+  "label": "corner or edge breakage",
+  "type": "breakage",
+  "image": "Data/Images/Anomaly/easy_imgs/017.JPG"
+ },
+ {
+  "id": "018",
+  "label": "corner or edge breakage",
+  "type": "breakage",
+  "image": "Data/Images/Anomaly/easy_imgs/018.JPG"
+ },
+ {
+  "id": "019",
+  "label": "corner or edge breakage",
+  "type": "breakage",
+  "image": "Data/Images/Anomaly/easy_imgs/019.JPG"
+ },
+ {
+  "id": "020",
+  "label": "corner or edge breakage",
+  "type": "breakage",
+  "image": "Data/Images/Anomaly/easy_imgs/020.JPG"
+ },
+ {
+  "id": "021",
+  "label": "corner or edge breakage",
+  "type": "breakage",
+  "image": "Data/Images/Anomaly/easy_imgs/021.JPG"
+ },
+ {
+  "id": "022",
+  "label": "corner or edge breakage",
+  "type": "breakage",
+  "image": "Data/Images/Anomaly/easy_imgs/022.JPG"
+ },
+ {
+  "id": "023",
+  "label": "corner or edge breakage",
+  "type": "breakage",
+  "image": "Data/Images/Anomaly/easy_imgs/023.JPG"
+ },
+ {
+  "id": "024",
+  "label": "corner or edge breakage",
+  "type": "breakage",
+  "image": "Data/Images/Anomaly/easy_imgs/024.JPG"
+ },
+ {
+  "id": "025",
+  "label": "different colour spot",
+  "type": "colour_diff",
+  "image": "Data/Images/Anomaly/easy_imgs/025.JPG"
+ },
+ {
+  "id": "026",
+  "label": "different colour spot",
+  "type": "colour_diff",
+  "image": "Data/Images/Anomaly/easy_imgs/026.JPG"
+ },
+ {
+  "id": "027",
+  "label": "different colour spot",
+  "type": "colour_diff",
+  "image": "Data/Images/Anomaly/easy_imgs/027.JPG"
+ },
+ {
+  "id": "028",
+  "label": "different colour spot",
+  "type": "colour_diff",
+  "image": "Data/Images/Anomaly/easy_imgs/028.JPG"
+ },
+ {
+  "id": "029",
+  "label": "different colour spot",
+  "type": "colour_diff",
+  "image": "Data/Images/Anomaly/easy_imgs/029.JPG"
+ },
+ {
+  "id": "030",
+  "label": "different colour spot",
+  "type": "colour_diff",
+  "image": "Data/Images/Anomaly/easy_imgs/030.JPG"
+ },
+ {
+  "id": "031",
+  "label": "different colour spot",
+  "type": "colour_diff",
+  "image": "Data/Images/Anomaly/easy_imgs/031.JPG"
+ },
+ {
+  "id": "032",
+  "label": "middle breakage",
+  "type": "breakage",
+  "image": "Data/Images/Anomaly/easy_imgs/032.JPG"
+ },
+ {
+  "id": "033",
+  "label": "middle breakage",
+  "type": "breakage",
+  "image": "Data/Images/Anomaly/easy_imgs/033.JPG"
+ },
+ {
+  "id": "034",
+  "label": "middle breakage",
+  "type": "breakage",
+  "image": "Data/Images/Anomaly/easy_imgs/034.JPG"
+ },
+ {
+  "id": "035",
+  "label": "middle breakage",
+  "type": "breakage",
+  "image": "Data/Images/Anomaly/easy_imgs/035.JPG"
+ },
+ {
+  "id": "036",
+  "label": "middle breakage",
+  "type": "breakage",
+  "image": "Data/Images/Anomaly/easy_imgs/036.JPG"
+ },
+ {
+  "id": "038",
+  "label": "small holes",
+  "type": "holes",
+  "image": "Data/Images/Anomaly/easy_imgs/038.JPG"
+ },
+ {
+  "id": "039",
+  "label": "small holes",
+  "type": "holes",
+  "image": "Data/Images/Anomaly/easy_imgs/039.JPG"
+ },
+ {
+  "id": "040",
+  "label": "small holes",
+  "type": "holes",
+  "image": "Data/Images/Anomaly/easy_imgs/040.JPG"
+ },
+ {
+  "id": "041",
+  "label": "middle breakage",
+  "type": "breakage",
+  "image": "Data/Images/Anomaly/easy_imgs/041.JPG"
+ },
+ {
+  "id": "043",
+  "label": "small holes",
+  "type": "holes",
+  "image": "Data/Images/Anomaly/easy_imgs/043.JPG"
+ },
+ {
+  "id": "044",
+  "label": "same colour spot",
+  "type": "colour_same",
+  "image": "Data/Images/Anomaly/easy_imgs/044.JPG"
+ },
+ {
+  "id": "045",
+  "label": "same colour spot",
+  "type": "colour_same",
+  "image": "Data/Images/Anomaly/easy_imgs/045.JPG"
+ },
+ {
+  "id": "047",
+  "label": "same colour spot",
+  "type": "colour_same",
+  "image": "Data/Images/Anomaly/easy_imgs/047.JPG"
+ },
+ {
+  "id": "048",
+  "label": "corner or edge breakage",
+  "type": "breakage",
+  "image": "Data/Images/Anomaly/easy_imgs/048.JPG"
+ },
+ {
+  "id": "049",
+  "label": "same colour spot",
+  "type": "colour_same",
+  "image": "Data/Images/Anomaly/easy_imgs/049.JPG"
+ },
+ {
+  "id": "050",
+  "label": "same colour spot",
+  "type": "colour_same",
+  "image": "Data/Images/Anomaly/easy_imgs/050.JPG"
+ },
+ {
+  "id": "051",
+  "label": "same colour spot",
+  "type": "colour_same",
+  "image": "Data/Images/Anomaly/easy_imgs/051.JPG"
+ },
+ {
+  "id": "052",
+  "label": "burnt",
+  "type": "burnt",
+  "image": "Data/Images/Anomaly/easy_imgs/052.JPG"
+ },
+ {
+  "id": "053",
+  "label": "same colour spot",
+  "type": "colour_same",
+  "image": "Data/Images/Anomaly/easy_imgs/053.JPG"
+ },
+ {
+  "id": "054",
+  "label": "same colour spot",
+  "type": "colour_same",
+  "image": "Data/Images/Anomaly/easy_imgs/054.JPG"
+ },
+ {
+  "id": "056",
+  "label": "same colour spot",
+  "type": "colour_same",
+  "image": "Data/Images/Anomaly/easy_imgs/056.JPG"
+ },
+ {
+  "id": "057",
+  "label": "different colour spot",
+  "type": "colour_diff",
+  "image": "Data/Images/Anomaly/easy_imgs/057.JPG"
+ },
+ {
+  "id": "059",
+  "label": "same colour spot",
+  "type": "colour_same",
+  "image": "Data/Images/Anomaly/easy_imgs/059.JPG"
+ },
+ {
+  "id": "061",
+  "label": "small holes",
+  "type": "holes",
+  "image": "Data/Images/Anomaly/easy_imgs/061.JPG"
+ },
+ {
+  "id": "062",
+  "label": "small holes",
+  "type": "holes",
+  "image": "Data/Images/Anomaly/easy_imgs/062.JPG"
+ },
+ {
+  "id": "063",
+  "label": "small holes",
+  "type": "holes",
+  "image": "Data/Images/Anomaly/easy_imgs/063.JPG"
+ },
+ {
+  "id": "064",
+  "label": "small holes",
+  "type": "holes",
+  "image": "Data/Images/Anomaly/easy_imgs/064.JPG"
+ },
+ {
+  "id": "065",
+  "label": "small holes",
+  "type": "holes",
+  "image": "Data/Images/Anomaly/easy_imgs/065.JPG"
+ },
+ {
+  "id": "066",
+  "label": "small holes",
+  "type": "holes",
+  "image": "Data/Images/Anomaly/easy_imgs/066.JPG"
+ },
+ {
+  "id": "067",
+  "label": "small holes",
+  "type": "holes",
+  "image": "Data/Images/Anomaly/easy_imgs/067.JPG"
+ },
+ {
+  "id": "068",
+  "label": "different colour spot",
+  "type": "colour_diff",
+  "image": "Data/Images/Anomaly/easy_imgs/068.JPG"
+ },
+ {
+  "id": "069",
+  "label": "small holes",
+  "type": "holes",
+  "image": "Data/Images/Anomaly/easy_imgs/069.JPG"
+ },
+ {
+  "id": "070",
+  "label": "small holes",
+  "type": "holes",
+  "image": "Data/Images/Anomaly/easy_imgs/070.JPG"
+ },
+ {
+  "id": "071",
+  "label": "small holes",
+  "type": "holes",
+  "image": "Data/Images/Anomaly/easy_imgs/071.JPG"
+ },
+ {
+  "id": "072",
+  "label": "small holes",
+  "type": "holes",
+  "image": "Data/Images/Anomaly/easy_imgs/072.JPG"
+ },
+ {
+  "id": "073",
+  "label": "small holes",
+  "type": "holes",
+  "image": "Data/Images/Anomaly/easy_imgs/073.JPG"
+ },
+ {
+  "id": "074",
+  "label": "small holes",
+  "type": "holes",
+  "image": "Data/Images/Anomaly/easy_imgs/074.JPG"
+ },
+ {
+  "id": "075",
+  "label": "small holes",
+  "type": "holes",
+  "image": "Data/Images/Anomaly/easy_imgs/075.JPG"
+ },
+ {
+  "id": "076",
+  "label": "small holes",
+  "type": "holes",
+  "image": "Data/Images/Anomaly/easy_imgs/076.JPG"
+ },
+ {
+  "id": "077",
+  "label": "small holes",
+  "type": "holes",
+  "image": "Data/Images/Anomaly/easy_imgs/077.JPG"
+ },
+ {
+  "id": "078",
+  "label": "small scratches",
+  "type": "scratches",
+  "image": "Data/Images/Anomaly/easy_imgs/078.JPG"
+ },
+ {
+  "id": "079",
+  "label": "small scratches",
+  "type": "scratches",
+  "image": "Data/Images/Anomaly/easy_imgs/079.JPG"
+ },
+ {
+  "id": "080",
+  "label": "small scratches",
+  "type": "scratches",
+  "image": "Data/Images/Anomaly/easy_imgs/080.JPG"
+ },
+ {
+  "id": "081",
+  "label": "small scratches",
+  "type": "scratches",
+  "image": "Data/Images/Anomaly/easy_imgs/081.JPG"
+ },
+ {
+  "id": "082",
+  "label": "small scratches",
+  "type": "scratches",
+  "image": "Data/Images/Anomaly/easy_imgs/082.JPG"
+ },
+ {
+  "id": "083",
+  "label": "small scratches",
+  "type": "scratches",
+  "image": "Data/Images/Anomaly/easy_imgs/083.JPG"
+ },
+ {
+  "id": "084",
+  "label": "small scratches",
+  "type": "scratches",
+  "image": "Data/Images/Anomaly/easy_imgs/084.JPG"
+ },
+ {
+  "id": "085",
+  "label": "small scratches",
+  "type": "scratches",
+  "image": "Data/Images/Anomaly/easy_imgs/085.JPG"
+ },
+ {
+  "id": "086",
+  "label": "small scratches",
+  "type": "scratches",
+  "image": "Data/Images/Anomaly/easy_imgs/086.JPG"
+ },
+ {
+  "id": "087",
+  "label": "small scratches",
+  "type": "scratches",
+  "image": "Data/Images/Anomaly/easy_imgs/087.JPG"
+ },
+ {
+  "id": "088",
+  "label": "small scratches",
+  "type": "scratches",
+  "image": "Data/Images/Anomaly/easy_imgs/088.JPG"
+ },
+ {
+  "id": "089",
+  "label": "small scratches",
+  "type": "scratches",
+  "image": "Data/Images/Anomaly/easy_imgs/089.JPG"
+ },
+ {
+  "id": "090",
+  "label": "small scratches",
+  "type": "scratches",
+  "image": "Data/Images/Anomaly/easy_imgs/090.JPG"
+ },
+ {
+  "id": "091",
+  "label": "small scratches",
+  "type": "scratches",
+  "image": "Data/Images/Anomaly/easy_imgs/091.JPG"
+ },
+ {
+  "id": "093",
+  "label": "small scratches",
+  "type": "scratches",
+  "image": "Data/Images/Anomaly/easy_imgs/093.JPG"
+ }
+]

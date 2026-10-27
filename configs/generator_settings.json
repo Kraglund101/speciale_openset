@@ -1,0 +1,11 @@
+{
+ "ckpt": "clean-20k",
+ "mask_factor": 0.25,
+ "noise_strength": 0.4,
+ "num_steps": 50,
+ "even_steps": true,
+ "guidance_scale": 7.0,
+ "band_mode": 2,
+ "cfg_mode": "visual",
+ "raw_background": true
+}

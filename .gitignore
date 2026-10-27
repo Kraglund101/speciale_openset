@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+# datasets and outputs (not part of the repository)
+anomverse_extension/
+datasets/
+results/
